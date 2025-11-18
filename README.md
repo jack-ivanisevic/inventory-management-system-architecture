@@ -1,4 +1,4 @@
-# Inventory Management System Architecture – Case Study
+# Inventory System Architecture
 
 ## Overview
 
